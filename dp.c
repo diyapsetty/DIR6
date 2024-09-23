@@ -1,6 +1,0 @@
-main()
-{
-add()
-sub()
-mul()
-}
